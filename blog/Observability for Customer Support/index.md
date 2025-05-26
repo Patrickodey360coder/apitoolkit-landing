@@ -48,6 +48,22 @@ When users are aware that you are able to identify issues before they tell you
 
 The fewer potential problems that end up in your support inbox, the more time and resources your team has to dedicate to higher-value work. And instead of reactionary, support is strategic—focused on user education, community engagement and ongoing improvement.
 
+## Real-World Example
+
+Picture a fintech product whose users regularly gripe about transfers that didn’t work. Without observability, support waits for reports, screenshots, transactions IDs, engineers to grep the logs.
+
+With APItoolkit:
+
+- The unsuccessful API call is then logged at once.
+
+- The actual request and the response are logged.
+
+- The support team is alerted even before the user has called.
+
+- Rank the priority of the bug based on impact, and push out a fix as fast as possible.
+
+Result? No support ticket needed. Problem solved.
+
 **Keep Reading**
 
 [Best API Monitoring and Observability Tools in 2023](https://apitoolkit.io/blog/best-api-monitoring-and-observability-tools/)
